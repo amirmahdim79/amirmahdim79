@@ -1,4 +1,4 @@
-[![Amir Mahdi's GitHub stats](https://github-readme-stats-nine-liard-99.vercel.app/api?username=amirmahdim79&theme=gotham&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/amirmahdim79/github-readme-stats) 
+[![Amir Mahdi's GitHub stats](https://github-readme-stats-nine-liard-99.vercel.app/api?username=amirmahdim79&theme=gotham&show_icons=true&include_all_commits=true)](https://github.com/amirmahdim79/github-readme-stats) 
 [![Top Langs](https://github-readme-stats-nine-liard-99.vercel.app/api/top-langs/?username=amirmahdim79&layout=compact&langs_count=9&theme=gotham)](https://github.com/amirmahdim79/github-readme-stats)
 <!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirmahdim79&theme=dark&background=000000)](https://git.io/streak-stats)
