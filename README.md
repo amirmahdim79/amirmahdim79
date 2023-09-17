@@ -28,6 +28,8 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats-nine-liard-99.vercel.app/api?username=amirmahdim79&theme=gotham" alt="amirmahdim79" /></p>
 
+<iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?amirmahdim79" frameborder="0"></iframe>
+
 <!--
 <p><img align="center" src="https://github-readme-stats-nine-liard-99.vercel.app/api?username=amirmahdim79&" alt="amirmahdim79" /></p>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=amirmahdim79&theme=dark&background=000000)](https://git.io/streak-stats)
