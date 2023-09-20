@@ -3,9 +3,9 @@
 [![Top Langs](https://github-readme-stats-nine-liard-99.vercel.app/api/top-langs/?username=amirmahdim79&layout=compact&langs_count=9&theme=gotham)](https://github.com/amirmahdim79/github-readme-stats)
 -->
 
-<h1 align="center">Hi 👋, I'm Amir Mahdi</h1>
+<h1 align="center">Greetings 👋, I'm Amir Mahdi</h1>
 <h3 align="center">A passionate Full-Stack Developer, graduate computer science student from the University of Tehran.</h3>
-<h2 align="center">Visit my personal webpage [here](https://amirmahdim79.github.io/)</h2>
+<h3 align="center">Visit my personal webpage [here](https://amirmahdim79.github.io/)</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amirmahdim79&theme=gotham&layout=compact" alt="amirmahdim79" /></p>
 
