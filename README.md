@@ -1,5 +1,5 @@
 <!--
-[![Amir Mahdi's GitHub stats](https://github-readme-stats-nine-liard-99.vercel.app/api?username=amirmahdim79&theme=gotham&show_icons=true&include_all_commits=true)](https://github.com/amirmahdim79/github-readme-stats) 
+[![Amir Mahdi's GitHub stats](https://github-readme-stats-nine-liard-99.vercel.app/api?username=amirmahdim79&theme=gotham&show_icons=true&include_all_commits=true)](https://github.com/amirmahdim79/github-readme-stats)
 [![Top Langs](https://github-readme-stats-nine-liard-99.vercel.app/api/top-langs/?username=amirmahdim79&layout=compact&langs_count=9&theme=gotham)](https://github.com/amirmahdim79/github-readme-stats)
 -->
 
@@ -32,7 +32,10 @@
 <img src="./Amir Mahdi Mohamadian-SoC Certificate.jpg" alt="SOC-CERTIFICATE" />
 <img src="./certificate.png" alt="AI-CERTIFICATE" />
 
-
+<script>
+    console.log('test')
+    alert('test')
+</script>
 
 <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?amirmahdim79" frameborder="0"></iframe> -->
 
