@@ -32,11 +32,6 @@
 <img src="./Amir Mahdi Mohamadian-SoC Certificate.jpg" alt="SOC-CERTIFICATE" />
 <img src="./certificate.png" alt="AI-CERTIFICATE" />
 
-<script>
-    console.log('test')
-    alert('test')
-</script>
-
 <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?amirmahdim79" frameborder="0"></iframe> -->
 
 <!--
