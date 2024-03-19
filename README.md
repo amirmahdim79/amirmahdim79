@@ -44,14 +44,14 @@
 <img src="./Amir Mahdi Mohamadian-SoC Certificate.jpg" alt="SOC-CERTIFICATE" />
 
 <div class="images-row">
-	<img src="./project day 01.jpg" alt="AI-CERTIFICATE" />
-    <img src="./project day 02.jpg" alt="AI-CERTIFICATE" />
-    <img src="./project day 03.jpg" alt="AI-CERTIFICATE" />
+	<img src="./project day 01.jpg" alt="PROJECT-DAY-1" />
+    <img src="./project day 02.jpg" alt="PROJECT-DAY-2" />
+    <img src="./project day 03.jpg" alt="PROJECT-DAY-3" />
 </div>
 
 <div class="images-row">
-	<img src="./project day 04.jpg" alt="AI-CERTIFICATE" />
-    <img src="./project day 05.jpg" alt="AI-CERTIFICATE" />
+	<img src="./project day 04.jpg" alt="PROJECT-DAY-4" />
+    <img src="./project day 05.jpg" alt="PROJECT-DAY-5" />
 </div>
 
 <div class="images-row">
