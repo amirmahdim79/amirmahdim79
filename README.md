@@ -15,7 +15,7 @@
 
 <p align="left"> <a href="https://twitter.com/therealamirmahd" target="blank"><img src="https://img.shields.io/twitter/follow/therealamirmahd?logo=twitter&style=for-the-badge" alt="therealamirmahd" /></a> </p>
 
-- 🔭 I’m currently working on [QTOPPIA APP](https://qtoppia.com/)
+<!-- - 🔭 I’m currently working on [QTOPPIA APP](https://qtoppia.com/) -->
 
 - 📫 Feel free to reach out to **amirmahdi.mohamadian79@gmail.com**
 
