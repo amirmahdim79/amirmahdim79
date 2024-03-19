@@ -33,14 +33,14 @@
 
 <div style="display:flex;height:300px;width:100%;" class="images-row">
 	<img style="object-fit:contain;" src="./project day 01.jpg" alt="PROJECT-DAY-1" />
-    <img style="object-fit:contain;" src="./project day 02.jpg" alt="PROJECT-DAY-2" />
-    <img style="object-fit:contain;" src="./project day 03.jpg" alt="PROJECT-DAY-3" />
+    <!-- <img style="object-fit:contain;" src="./project day 02.jpg" alt="PROJECT-DAY-2" /> -->
+    <!-- <img style="object-fit:contain;" src="./project day 03.jpg" alt="PROJECT-DAY-3" /> -->
 </div>
 
-<div style="display:flex;height:300px;width:100%;" class="images-row">
+<!-- <div style="display:flex;height:300px;width:100%;" class="images-row">
 	<img style="object-fit:contain;" src="./project day 04.jpg" alt="PROJECT-DAY-4" />
     <img style="object-fit:contain;" src="./project day 05.jpg" alt="PROJECT-DAY-5" />
-</div>
+</div> -->
 
 <div style="display:flex;height:300px;width:100%;" class="images-row">
 	<img style="object-fit:contain;" src="./certificate.png" alt="AI-CERTIFICATE" />
