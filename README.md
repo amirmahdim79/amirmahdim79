@@ -3,18 +3,6 @@
 [![Top Langs](https://github-readme-stats-nine-liard-99.vercel.app/api/top-langs/?username=amirmahdim79&layout=compact&langs_count=9&theme=gotham)](https://github.com/amirmahdim79/github-readme-stats)
 -->
 
-<style>
-	.images-row {
-		display: flex;
-		height: 300px;
-		width: 100%;
-	}
-
-	.images-row > img {
-		object-fit: contain;
-	}
-</style>
-
 <h1 align="center">Greetings 👋, I'm Amir Mahdi</h1>
 <h3 align="center">A passionate Full-Stack Developer, graduate computer science student from the University of Tehran.</h3>
 <h3 align="center">Visit my personal webpage at https://amirmahdim79.github.io</h3>
@@ -43,20 +31,20 @@
 
 <img src="./Amir Mahdi Mohamadian-SoC Certificate.jpg" alt="SOC-CERTIFICATE" />
 
-<div class="images-row">
-	<img src="./project day 01.jpg" alt="PROJECT-DAY-1" />
-    <img src="./project day 02.jpg" alt="PROJECT-DAY-2" />
-    <img src="./project day 03.jpg" alt="PROJECT-DAY-3" />
+<div style="display:flex;height:300px;width:100%;" class="images-row">
+	<img style="object-fit:contain;" src="./project day 01.jpg" alt="PROJECT-DAY-1" />
+    <img style="object-fit:contain;" src="./project day 02.jpg" alt="PROJECT-DAY-2" />
+    <img style="object-fit:contain;" src="./project day 03.jpg" alt="PROJECT-DAY-3" />
 </div>
 
-<div class="images-row">
-	<img src="./project day 04.jpg" alt="PROJECT-DAY-4" />
-    <img src="./project day 05.jpg" alt="PROJECT-DAY-5" />
+<div style="display:flex;height:300px;width:100%;" class="images-row">
+	<img style="object-fit:contain;" src="./project day 04.jpg" alt="PROJECT-DAY-4" />
+    <img style="object-fit:contain;" src="./project day 05.jpg" alt="PROJECT-DAY-5" />
 </div>
 
-<div class="images-row">
-	<img src="./certificate.png" alt="AI-CERTIFICATE" />
-    <img src="./certificate2.png" alt="AI-CERTIFICATE" />
+<div style="display:flex;height:300px;width:100%;" class="images-row">
+	<img style="object-fit:contain;" src="./certificate.png" alt="AI-CERTIFICATE" />
+    <img style="object-fit:contain;" src="./certificate2.png" alt="AI-CERTIFICATE" />
 </div>
 
 <!-- <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?amirmahdim79" frameborder="0"></iframe> -->
